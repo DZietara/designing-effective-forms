@@ -1,3 +1,7 @@
 .modal {
-    background: #c6d0ff7a;
+  background: #c6d0ff7a;
+}
+
+body {
+  overflow: hidden;
 }
